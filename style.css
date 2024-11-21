@@ -1,0 +1,285 @@
+.atoz {
+    background-color: white
+}
+
+.topbar {
+    position: sticky;
+    top: 0px;
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+
+.topbar img {
+    width: 40px;
+}
+
+.home {
+    gap: 80px;
+    position: sticky;
+    top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.home img {
+    width: 40px;
+}
+
+.Search input {
+    width: 250px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(205, 200, 200);
+    padding: 0 15px;
+    border: 0px;
+    outline: 0px;
+}
+
+.main-container {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    gap: 10px;
+}
+
+.sidebar {
+    position: sticky;
+    top: 72px;
+    max-height: 580px;
+    overflow: auto;
+}
+
+.sidebar li:hover {
+    background-color: rgb(223, 221, 221);
+    border-radius: 15px;
+}
+
+.class {
+    display: flex;
+}
+
+.class img {
+    width: 40px;
+    height: 40px;
+    align-items: center;  
+    border-radius: 35px;
+}
+
+.sidebar li {
+    display: flex;
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+.contacts {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contacts img {
+    width: 35px;
+}
+
+.newsfeed img {
+    width: 680px;
+    align-items: center;
+}
+
+.newsfeed {
+    align-items: center;
+}
+
+.story {
+    display: flex;
+    gap: 10px;
+}
+
+.story img {
+    width: 175px;
+    height: 275px;
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+.create {
+    display: flex;
+}
+
+.create img {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.search1 input {
+    width: 350px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: rgb(205, 200, 200);
+    padding: 0 45px;
+    border: 0px;
+    outline: 0px;
+}
+
+.myppp {
+    display: flex;
+}
+
+.myppp img {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.myppp1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.myppp1 img {
+    width: 30px;
+    height: 30px;
+    border-radius: 18px;
+}
+
+.myppp1 :hover {
+    background-color: rgb(223, 221, 221);
+    border-radius: 5px;
+}
+
+.Friends {
+    background-color: white;
+    position: sticky;
+    top: 72px;
+    max-height: 550px;
+    overflow: auto;
+}
+
+.Name :hover {
+    border-radius: 15px;
+    background-color: rgb(223, 221, 221);
+}
+
+.Name {
+    width: 270px;
+}
+
+.Name div {
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+.Group {
+    display: flex;
+    justify-content: space-between;
+    width: 160px;
+}
+
+.Group img {
+    width: 16px;
+}
+
+.sachin {
+    display: flex;
+}
+
+.sachin img {
+    width: 40px;
+    height: 40px;
+    border-radius: 35px;
+}
+
+.sagar {
+    display: flex;
+}
+
+.sagar img {
+    width: 40px;
+    height: 40px;
+    border-radius: 35px;
+}
+
+.newz {
+    display: flex;
+}
+
+.newz img {
+    width: 40px;
+    height: 40px;
+    border-radius: 35px;
+}
+
+.Ronaldo {
+    display: flex;
+}
+
+.profile img {
+    width: 40px;
+    height: 40px;
+    border-radius: 35px;
+}
+
+.ppp img {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+}
+
+.like {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.like img {
+    width: 25px;
+    height: 25px;
+}
+
+.like div {
+    display: flex;
+    justify-content: space-between;
+}
+
+.people {
+    display: flex;
+}
+
+.people img {
+    width: 25px;
+    height: 25px;
+}
+
+.like div {
+    display: flex;
+}
+.firststory{
+    position: relative;
+}
+.Createstory p{
+    width: 100%;
+    position: absolute;
+    bottom:0%;
+    padding: 10px 0px;
+    background-color: white;
+}
+.plus{
+    position: absolute;
+    background-color: blue;
+    align-content: center;
+}
+.plus p{
+    position: absolute;
+    width: 100%;
+    bottom: 9px;
+    position: absolute;
+    color: white;
+}
+
+
+.nepal {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
